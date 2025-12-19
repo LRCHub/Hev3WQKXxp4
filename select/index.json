@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I'm home",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-19T11:52:04.974570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honey I'm Home",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/01_Honey_I'm_Home_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honey I'm Home (Stripped)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/02_Honey_I'm_Home_(Stripped)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honey, I'm Home",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/03_Honey,_I'm_Home_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honey, I’m Home",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/04_Honey,_I’m_Home_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "and I'm home",
+      "artist": "美樹さやか(CV:喜多村英梨)＆佐倉杏子(CV:野中藍)",
+      "has_synced": true,
+      "path": "select/05_and_I'm_home_美樹さやか(CV_喜多村英梨)&佐倉杏子(CV_野中藍).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "and I’m home",
+      "artist": "美樹さやか (CV:喜多村英梨)、佐倉杏子 (CV:野中藍)",
+      "has_synced": true,
+      "path": "select/06_and_I’m_home_美樹さやか_(CV_喜多村英梨)、佐倉杏子_(CV_野中藍).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby I'm Home",
+      "artist": "Trace Adkins",
+      "has_synced": false,
+      "path": "select/07_Baby_I'm_Home_Trace_Adkins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honey, I'm Home (Album Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/08_Honey,_I'm_Home_(Album_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honey, I’m Home",
+      "artist": "Mini Mansions",
+      "has_synced": false,
+      "path": "select/09_Honey,_I’m_Home_Mini_Mansions.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honey, I'm Home",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/10_Honey,_I'm_Home_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honey I'm Home",
+      "artist": "Ghost and Pals",
+      "has_synced": true,
+      "path": "select/11_Honey_I'm_Home_Ghost_and_Pals.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "i'm home (mufasa, sarabi & simba interlude)",
+      "artist": "James Earl Jones feat. Alfre Woodard & Childish Gambino",
+      "has_synced": true,
+      "path": "select/12_i'm_home_(mufasa,_sarabi_&_simba_interlude)_James_Earl_Jones_feat._Alfre_Woodard_&_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i'm home (mufasa, sarabi & simba interlude)",
+      "artist": "James Earl Jones",
+      "has_synced": true,
+      "path": "select/13_i'm_home_(mufasa,_sarabi_&_simba_interlude)_James_Earl_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "As Long as I Have You I'm Home",
+      "artist": "Imaginary Future",
+      "has_synced": true,
+      "path": "select/14_As_Long_as_I_Have_You_I'm_Home_Imaginary_Future.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Home",
+      "artist": "Peter Cat Recording Co.",
+      "has_synced": false,
+      "path": "select/15_I'm_Home_Peter_Cat_Recording_Co..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Honey, I'm Home",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/16_Honey,_I'm_Home_Shania_Twain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm home",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_home_Tani_Yuuki.txt"
+    }
+  ]
+}
